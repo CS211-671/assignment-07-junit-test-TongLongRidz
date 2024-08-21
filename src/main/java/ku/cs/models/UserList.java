@@ -23,6 +23,7 @@ public class UserList {
         if (exist == null) {
             users.add(new User(username, password));
         }
+
     }
 
 

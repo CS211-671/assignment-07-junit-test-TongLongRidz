@@ -12,6 +12,7 @@ class UserListTest {
     public void testUserListFindUser() {
         // TODO: add 3 users to UserList
 
+
         // TODO: find one of them
 
         // TODO: assert that UserList found User
